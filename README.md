@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**inael-dev/inael-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Inael Braga  
 
-Here are some ideas to get you started:
+🎓 Estudante de *Análise e Desenvolvimento de Sistemas* no *UNASP*  
+💻 Apaixonado por *tecnologia, programação e aprendizado constante*  
+🚀 Sempre buscando evoluir e transformar ideias em soluções reais  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias que estudo e utilizo
+- *Front-end:* HTML, CSS, Bootstrap, Tailwind, Next.js (com TypeScript)  
+- *Back-end & Banco de Dados:* Supabase, APIs REST  
+- *IoT & Hardware:* ESP32, MicroPython, comunicação CAN/OBD-II, MQTT  
+- *Outros:* Git/GitHub, Figma, shadcn/ui  
+
+---
+
+## 📈 Atualmente aprendendo
+- Integração de APIs (fetch, Context API no Next.js)  
+- Autenticação e proteção de rotas com Supabase  
+- Arquitetura de sistemas full stack  
+
+---
+
+## 📫 Como me encontrar
+- ✉️ inaelb@gmail.com
