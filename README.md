@@ -12,7 +12,6 @@
 
 ---
 
-## 📈 Atualmente aprendendo
-- Integração de APIs (fetch, Context API no Next.js)  
+## 📈 Atualmente aprendendo 
 - Autenticação e proteção de rotas com Supabase  
 - Arquitetura de sistemas full stack  
